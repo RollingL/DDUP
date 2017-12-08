@@ -2,4 +2,4 @@ this is a test repository!
 
 creat a new branch "dev"
 
-compare
+creat another one branch
